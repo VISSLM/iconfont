@@ -13,7 +13,6 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - run: mv demo_index.html index.html
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v2.5.0
       env:
@@ -21,3 +20,4 @@ jobs:
         PUBLISH_BRANCH: gh-pages
         # 生成文件的目录
         PUBLISH_DIR: ./
+    - run: mv demo_index.html index.html
