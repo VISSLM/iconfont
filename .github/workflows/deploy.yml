@@ -13,7 +13,7 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - run: mv demo.index.html index.html
+    - run: mv demo_index.html index.html
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v2.5.0
       env:
