@@ -6,6 +6,20 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "16291415",
+      "name": "circle-o",
+      "font_class": "circle-o1",
+      "unicode": "e783",
+      "unicode_decimal": 59267
+    },
+    {
+      "icon_id": "16291416",
+      "name": "circle",
+      "font_class": "circle1",
+      "unicode": "e784",
+      "unicode_decimal": 59268
+    },
+    {
       "icon_id": "15834984",
       "name": "columnAttributes",
       "font_class": "columnAttributes",
