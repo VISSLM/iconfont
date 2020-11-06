@@ -6,6 +6,20 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "18059844",
+      "name": "vertical_1",
+      "font_class": "vertical_1",
+      "unicode": "e78f",
+      "unicode_decimal": 59279
+    },
+    {
+      "icon_id": "18059845",
+      "name": "horizongtal",
+      "font_class": "horizongtal",
+      "unicode": "e791",
+      "unicode_decimal": 59281
+    },
+    {
       "icon_id": "18057696",
       "name": "Rotate",
       "font_class": "Rotate",
@@ -18,13 +32,6 @@
       "font_class": "pagebreak",
       "unicode": "e78e",
       "unicode_decimal": 59278
-    },
-    {
-      "icon_id": "18057698",
-      "name": "vertical_1",
-      "font_class": "vertical_1",
-      "unicode": "e78f",
-      "unicode_decimal": 59279
     },
     {
       "icon_id": "17429764",
