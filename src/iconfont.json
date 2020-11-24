@@ -6,6 +6,20 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "18423313",
+      "name": "point",
+      "font_class": "point",
+      "unicode": "e79c",
+      "unicode_decimal": 59292
+    },
+    {
+      "icon_id": "18423314",
+      "name": "point_o",
+      "font_class": "point_o",
+      "unicode": "e79d",
+      "unicode_decimal": 59293
+    },
+    {
       "icon_id": "18350744",
       "name": "rename_o",
       "font_class": "rename_o",
