@@ -6,6 +6,20 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "18485102",
+      "name": "jump",
+      "font_class": "jump",
+      "unicode": "e79e",
+      "unicode_decimal": 59294
+    },
+    {
+      "icon_id": "18485103",
+      "name": "link",
+      "font_class": "link1",
+      "unicode": "e79f",
+      "unicode_decimal": 59295
+    },
+    {
       "icon_id": "18423313",
       "name": "point",
       "font_class": "point",
