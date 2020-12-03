@@ -6,9 +6,9 @@
   "description": "",
   "glyphs": [
     {
-      "icon_id": "18610745",
-      "name": "project",
-      "font_class": "Project",
+      "icon_id": "18614020",
+      "name": "linkProject",
+      "font_class": "linkProject",
       "unicode": "e7a0",
       "unicode_decimal": 59296
     },
