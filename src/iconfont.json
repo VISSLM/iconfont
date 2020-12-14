@@ -6,6 +6,20 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "18801272",
+      "name": "Filter-F",
+      "font_class": "Filter-F",
+      "unicode": "e7a5",
+      "unicode_decimal": 59301
+    },
+    {
+      "icon_id": "18801273",
+      "name": "Filter-O",
+      "font_class": "Filter-O",
+      "unicode": "e7a7",
+      "unicode_decimal": 59303
+    },
+    {
       "icon_id": "18673523",
       "name": "ProjectGroup",
       "font_class": "ProjectGroup",
