@@ -6,6 +6,13 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "18862390",
+      "name": "Department",
+      "font_class": "Department",
+      "unicode": "e7a9",
+      "unicode_decimal": 59305
+    },
+    {
       "icon_id": "18801272",
       "name": "Filter-F",
       "font_class": "Filter-F",
