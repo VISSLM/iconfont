@@ -6,6 +6,27 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "19112258",
+      "name": "DownRightCircle",
+      "font_class": "DownRightCircle",
+      "unicode": "e7ac",
+      "unicode_decimal": 59308
+    },
+    {
+      "icon_id": "19112259",
+      "name": "DownRightArrow",
+      "font_class": "DownRightArrow",
+      "unicode": "e7ad",
+      "unicode_decimal": 59309
+    },
+    {
+      "icon_id": "18898935",
+      "name": "Disk-O",
+      "font_class": "Disk-O",
+      "unicode": "e7aa",
+      "unicode_decimal": 59306
+    },
+    {
       "icon_id": "18862390",
       "name": "Department",
       "font_class": "Department",
