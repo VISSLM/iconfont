@@ -6,14 +6,14 @@
   "description": "",
   "glyphs": [
     {
-      "icon_id": "19112258",
+      "icon_id": "19172069",
       "name": "DownRightCircle",
       "font_class": "DownRightCircle",
       "unicode": "e7ac",
       "unicode_decimal": 59308
     },
     {
-      "icon_id": "19112259",
+      "icon_id": "19172070",
       "name": "DownRightArrow",
       "font_class": "DownRightArrow",
       "unicode": "e7ad",
