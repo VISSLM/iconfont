@@ -6,6 +6,13 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "19186162",
+      "name": "ProjectChange-O-C",
+      "font_class": "ProjectChange-O-C",
+      "unicode": "e7ae",
+      "unicode_decimal": 59310
+    },
+    {
       "icon_id": "19172069",
       "name": "DownRightCircle",
       "font_class": "DownRightCircle",
