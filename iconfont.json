@@ -6,6 +6,13 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "19362269",
+      "name": "Setcontainer-F",
+      "font_class": "Setcontainer-F",
+      "unicode": "e7af",
+      "unicode_decimal": 59311
+    },
+    {
       "icon_id": "19186162",
       "name": "ProjectChange-O-C",
       "font_class": "ProjectChange-O-C",
