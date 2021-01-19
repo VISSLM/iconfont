@@ -6,6 +6,20 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "19494279",
+      "name": "ModeScan-O",
+      "font_class": "ModeScan-O",
+      "unicode": "e7b0",
+      "unicode_decimal": 59312
+    },
+    {
+      "icon_id": "19494280",
+      "name": "ModeEdit-O",
+      "font_class": "ModeEdit-O",
+      "unicode": "e7b1",
+      "unicode_decimal": 59313
+    },
+    {
       "icon_id": "19362269",
       "name": "Setcontainer-F",
       "font_class": "Setcontainer-F",
