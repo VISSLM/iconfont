@@ -6,16 +6,16 @@
   "description": "",
   "glyphs": [
     {
-      "icon_id": "19494279",
-      "name": "ModeScan-O",
-      "font_class": "ModeScan-O",
+      "icon_id": "19504795",
+      "name": "EditFinish-O",
+      "font_class": "EditFinish-O",
       "unicode": "e7b0",
       "unicode_decimal": 59312
     },
     {
-      "icon_id": "19494280",
-      "name": "ModeEdit-O",
-      "font_class": "ModeEdit-O",
+      "icon_id": "19504796",
+      "name": "EditStart-O",
+      "font_class": "EditStart-O",
       "unicode": "e7b1",
       "unicode_decimal": 59313
     },
