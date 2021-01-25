@@ -6,6 +6,27 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "19628808",
+      "name": "All-F-C_2",
+      "font_class": "All-F-C_2",
+      "unicode": "e7b3",
+      "unicode_decimal": 59315
+    },
+    {
+      "icon_id": "19628809",
+      "name": "None-O",
+      "font_class": "None-O",
+      "unicode": "e7b4",
+      "unicode_decimal": 59316
+    },
+    {
+      "icon_id": "19628810",
+      "name": "Half-O",
+      "font_class": "Half-O",
+      "unicode": "e7b5",
+      "unicode_decimal": 59317
+    },
+    {
       "icon_id": "19504795",
       "name": "EditFinish-O",
       "font_class": "EditFinish-O",
