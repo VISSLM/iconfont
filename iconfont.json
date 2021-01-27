@@ -6,6 +6,20 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "19662036",
+      "name": "check-square-o",
+      "font_class": "check1",
+      "unicode": "e7b8",
+      "unicode_decimal": 59320
+    },
+    {
+      "icon_id": "19662003",
+      "name": "shixiao",
+      "font_class": "shixiao",
+      "unicode": "e747",
+      "unicode_decimal": 59207
+    },
+    {
       "icon_id": "19628808",
       "name": "All-F-C_2",
       "font_class": "All-F-C_2",
@@ -585,13 +599,6 @@
       "font_class": "zhuizong",
       "unicode": "e749",
       "unicode_decimal": 59209
-    },
-    {
-      "icon_id": "8000007",
-      "name": "失效",
-      "font_class": "shixiao",
-      "unicode": "e747",
-      "unicode_decimal": 59207
     },
     {
       "icon_id": "7866752",
@@ -3392,13 +3399,6 @@
       "font_class": "zoom-in",
       "unicode": "e67b",
       "unicode_decimal": 59003
-    },
-    {
-      "icon_id": "318422",
-      "name": "check-square-o",
-      "font_class": "check-square-o",
-      "unicode": "e64d",
-      "unicode_decimal": 58957
     },
     {
       "icon_id": "345121",
