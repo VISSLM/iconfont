@@ -6,6 +6,13 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "19732667",
+      "name": "upload",
+      "font_class": "UpLoad-O",
+      "unicode": "e7b9",
+      "unicode_decimal": 59321
+    },
+    {
       "icon_id": "19662036",
       "name": "check-square-o",
       "font_class": "check1",
@@ -1341,13 +1348,6 @@
       "font_class": "info",
       "unicode": "e712",
       "unicode_decimal": 59154
-    },
-    {
-      "icon_id": "348965",
-      "name": "upload",
-      "font_class": "upload",
-      "unicode": "eca5",
-      "unicode_decimal": 60581
     },
     {
       "icon_id": "1898855",
