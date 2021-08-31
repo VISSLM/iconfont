@@ -1,8 +1,8 @@
 @font-face {
   font-family: "fa"; /* Project id 692493 */
-  src: url('iconfont.woff2?t=1630374713329') format('woff2'),
-       url('iconfont.woff?t=1630374713329') format('woff'),
-       url('iconfont.ttf?t=1630374713329') format('truetype');
+  src: url('iconfont.woff2?t=1630397443926') format('woff2'),
+       url('iconfont.woff?t=1630397443926') format('woff'),
+       url('iconfont.ttf?t=1630397443926') format('truetype');
 }
 
 .fa {
@@ -11,6 +11,22 @@
   font-style: normal;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+.fa-submit-F:before {
+  content: "\e7bf";
+}
+
+.fa-revent-F:before {
+  content: "\e7c0";
+}
+
+.fa-submit-O:before {
+  content: "\e7c1";
+}
+
+.fa-revent-O:before {
+  content: "\e7c2";
 }
 
 .fa-shizhong-O:before {

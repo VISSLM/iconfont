@@ -6,6 +6,34 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "23996810",
+      "name": "submit-F",
+      "font_class": "submit-F",
+      "unicode": "e7bf",
+      "unicode_decimal": 59327
+    },
+    {
+      "icon_id": "23996811",
+      "name": "revent-F",
+      "font_class": "revent-F",
+      "unicode": "e7c0",
+      "unicode_decimal": 59328
+    },
+    {
+      "icon_id": "23996812",
+      "name": "submit-O",
+      "font_class": "submit-O",
+      "unicode": "e7c1",
+      "unicode_decimal": 59329
+    },
+    {
+      "icon_id": "23996813",
+      "name": "revent-O",
+      "font_class": "revent-O",
+      "unicode": "e7c2",
+      "unicode_decimal": 59330
+    },
+    {
       "icon_id": "23978054",
       "name": "时钟-O",
       "font_class": "shizhong-O",
