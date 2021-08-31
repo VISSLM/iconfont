@@ -6,6 +6,13 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "23978054",
+      "name": "时钟-O",
+      "font_class": "shizhong-O",
+      "unicode": "e7bd",
+      "unicode_decimal": 59325
+    },
+    {
       "icon_id": "23385075",
       "name": "point8px",
       "font_class": "point8px",
