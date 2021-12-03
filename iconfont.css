@@ -1,11 +1,11 @@
 @font-face {
   font-family: "fa"; /* Project id 692493 */
-  src: url('iconfont.eot?t=1638504578832'); /* IE9 */
-  src: url('iconfont.eot?t=1638504578832#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('iconfont.woff2?t=1638504578832') format('woff2'),
-       url('iconfont.woff?t=1638504578832') format('woff'),
-       url('iconfont.ttf?t=1638504578832') format('truetype'),
-       url('iconfont.svg?t=1638504578832#fa') format('svg');
+  src: url('iconfont.eot?t=1638508934476'); /* IE9 */
+  src: url('iconfont.eot?t=1638508934476#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('iconfont.woff2?t=1638508934476') format('woff2'),
+       url('iconfont.woff?t=1638508934476') format('woff'),
+       url('iconfont.ttf?t=1638508934476') format('truetype'),
+       url('iconfont.svg?t=1638508934476#fa') format('svg');
 }
 
 .fa {
@@ -20,8 +20,12 @@
   content: "\e7c2";
 }
 
-.fa-a-Columns3svg:before {
+.fa-Columns3:before {
   content: "\e7c3";
+}
+
+.fa-Columns4:before {
+  content: "\e7c4";
 }
 
 .fa-bookmark_02:before {
