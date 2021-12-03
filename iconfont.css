@@ -1,8 +1,11 @@
 @font-face {
   font-family: "fa"; /* Project id 692493 */
-  src: url('iconfont.woff2?t=1635312970113') format('woff2'),
-       url('iconfont.woff?t=1635312970113') format('woff'),
-       url('iconfont.ttf?t=1635312970113') format('truetype');
+  src: url('iconfont.eot?t=1638504578832'); /* IE9 */
+  src: url('iconfont.eot?t=1638504578832#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('iconfont.woff2?t=1638504578832') format('woff2'),
+       url('iconfont.woff?t=1638504578832') format('woff'),
+       url('iconfont.ttf?t=1638504578832') format('truetype'),
+       url('iconfont.svg?t=1638504578832#fa') format('svg');
 }
 
 .fa {
@@ -11,6 +14,14 @@
   font-style: normal;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+.fa-Columns2:before {
+  content: "\e7c2";
+}
+
+.fa-a-Columns3svg:before {
+  content: "\e7c3";
 }
 
 .fa-bookmark_02:before {

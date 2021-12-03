@@ -6,6 +6,20 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "26200717",
+      "name": "Columns2",
+      "font_class": "Columns2",
+      "unicode": "e7c2",
+      "unicode_decimal": 59330
+    },
+    {
+      "icon_id": "26200718",
+      "name": "Columns3.svg",
+      "font_class": "a-Columns3svg",
+      "unicode": "e7c3",
+      "unicode_decimal": 59331
+    },
+    {
       "icon_id": "25213291",
       "name": "bookmark_02",
       "font_class": "bookmark_02",
