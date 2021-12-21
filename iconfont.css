@@ -1,11 +1,11 @@
 @font-face {
   font-family: "fa"; /* Project id 692493 */
-  src: url('iconfont.eot?t=1638508934476'); /* IE9 */
-  src: url('iconfont.eot?t=1638508934476#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('iconfont.woff2?t=1638508934476') format('woff2'),
-       url('iconfont.woff?t=1638508934476') format('woff'),
-       url('iconfont.ttf?t=1638508934476') format('truetype'),
-       url('iconfont.svg?t=1638508934476#fa') format('svg');
+  src: url('iconfont.eot?t=1640076590405'); /* IE9 */
+  src: url('iconfont.eot?t=1640076590405#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('iconfont.woff2?t=1640076590405') format('woff2'),
+       url('iconfont.woff?t=1640076590405') format('woff'),
+       url('iconfont.ttf?t=1640076590405') format('truetype'),
+       url('iconfont.svg?t=1640076590405#fa') format('svg');
 }
 
 .fa {
@@ -14,6 +14,18 @@
   font-style: normal;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+.fa-Config:before {
+  content: "\e7c6";
+}
+
+.fa-uninherit:before {
+  content: "\e7c7";
+}
+
+.fa-inherit:before {
+  content: "\e7c8";
 }
 
 .fa-Columns2:before {
