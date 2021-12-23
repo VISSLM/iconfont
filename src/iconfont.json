@@ -6,6 +6,41 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "26723755",
+      "name": "DicBuitin",
+      "font_class": "DicBuitin",
+      "unicode": "e7c9",
+      "unicode_decimal": 59337
+    },
+    {
+      "icon_id": "26723756",
+      "name": "DicConfig",
+      "font_class": "DicConfig",
+      "unicode": "e7ca",
+      "unicode_decimal": 59338
+    },
+    {
+      "icon_id": "26723757",
+      "name": "Dic",
+      "font_class": "Dic",
+      "unicode": "e7cb",
+      "unicode_decimal": 59339
+    },
+    {
+      "icon_id": "26723758",
+      "name": "DicInheritBuitin",
+      "font_class": "DicInheritBuitin",
+      "unicode": "e7cc",
+      "unicode_decimal": 59340
+    },
+    {
+      "icon_id": "26723759",
+      "name": "DicInherit",
+      "font_class": "DicInherit",
+      "unicode": "e7cd",
+      "unicode_decimal": 59341
+    },
+    {
       "icon_id": "26670677",
       "name": "Config",
       "font_class": "Config",
