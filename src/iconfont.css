@@ -1,11 +1,11 @@
 @font-face {
   font-family: "fa"; /* Project id 692493 */
-  src: url('iconfont.eot?t=1640223649585'); /* IE9 */
-  src: url('iconfont.eot?t=1640223649585#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('iconfont.woff2?t=1640223649585') format('woff2'),
-       url('iconfont.woff?t=1640223649585') format('woff'),
-       url('iconfont.ttf?t=1640223649585') format('truetype'),
-       url('iconfont.svg?t=1640223649585#fa') format('svg');
+  src: url('iconfont.eot?t=1645495370673'); /* IE9 */
+  src: url('iconfont.eot?t=1645495370673#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('iconfont.woff2?t=1645495370673') format('woff2'),
+       url('iconfont.woff?t=1645495370673') format('woff'),
+       url('iconfont.ttf?t=1645495370673') format('truetype'),
+       url('iconfont.svg?t=1645495370673#fa') format('svg');
 }
 
 .fa {
@@ -14,6 +14,14 @@
   font-style: normal;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+.fa-layout_h:before {
+  content: "\e7ce";
+}
+
+.fa-layout_v:before {
+  content: "\e7cf";
 }
 
 .fa-DicBuitin:before {
