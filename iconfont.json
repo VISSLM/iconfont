@@ -6,6 +6,20 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "27746963",
+      "name": "layout_h",
+      "font_class": "layout_h",
+      "unicode": "e7ce",
+      "unicode_decimal": 59342
+    },
+    {
+      "icon_id": "27746964",
+      "name": "layout_v",
+      "font_class": "layout_v",
+      "unicode": "e7cf",
+      "unicode_decimal": 59343
+    },
+    {
       "icon_id": "26723755",
       "name": "DicBuitin",
       "font_class": "DicBuitin",
