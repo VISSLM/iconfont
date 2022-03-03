@@ -1,11 +1,11 @@
 @font-face {
   font-family: "fa"; /* Project id 692493 */
-  src: url('iconfont.eot?t=1646275233958'); /* IE9 */
-  src: url('iconfont.eot?t=1646275233958#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('iconfont.woff2?t=1646275233958') format('woff2'),
-       url('iconfont.woff?t=1646275233958') format('woff'),
-       url('iconfont.ttf?t=1646275233958') format('truetype'),
-       url('iconfont.svg?t=1646275233958#fa') format('svg');
+  src: url('iconfont.eot?t=1646278581862'); /* IE9 */
+  src: url('iconfont.eot?t=1646278581862#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('iconfont.woff2?t=1646278581862') format('woff2'),
+       url('iconfont.woff?t=1646278581862') format('woff'),
+       url('iconfont.ttf?t=1646278581862') format('truetype'),
+       url('iconfont.svg?t=1646278581862#fa') format('svg');
 }
 
 .fa {
@@ -16,16 +16,16 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.fa-state_empty:before {
-  content: "\e7d1";
-}
-
 .fa-state_nopermisssion:before {
-  content: "\e7d3";
+  content: "\e7d0";
 }
 
 .fa-state_datalost:before {
-  content: "\e7d5";
+  content: "\e7d1";
+}
+
+.fa-state_empty:before {
+  content: "\e7d3";
 }
 
 .fa-layout_h:before {
