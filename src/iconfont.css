@@ -1,11 +1,11 @@
 @font-face {
   font-family: "fa"; /* Project id 692493 */
-  src: url('iconfont.eot?t=1646278581862'); /* IE9 */
-  src: url('iconfont.eot?t=1646278581862#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('iconfont.woff2?t=1646278581862') format('woff2'),
-       url('iconfont.woff?t=1646278581862') format('woff'),
-       url('iconfont.ttf?t=1646278581862') format('truetype'),
-       url('iconfont.svg?t=1646278581862#fa') format('svg');
+  src: url('iconfont.eot?t=1646633128679'); /* IE9 */
+  src: url('iconfont.eot?t=1646633128679#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('iconfont.woff2?t=1646633128679') format('woff2'),
+       url('iconfont.woff?t=1646633128679') format('woff'),
+       url('iconfont.ttf?t=1646633128679') format('truetype'),
+       url('iconfont.svg?t=1646633128679#fa') format('svg');
 }
 
 .fa {
@@ -14,6 +14,14 @@
   font-style: normal;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+.fa-state_dataanomalies:before {
+  content: "\e7d5";
+}
+
+.fa-document_placeholder:before {
+  content: "\e7d6";
 }
 
 .fa-state_nopermisssion:before {
