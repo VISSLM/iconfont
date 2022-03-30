@@ -1,11 +1,11 @@
 @font-face {
   font-family: "fa"; /* Project id 692493 */
-  src: url('iconfont.eot?t=1646636271054'); /* IE9 */
-  src: url('iconfont.eot?t=1646636271054#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('iconfont.woff2?t=1646636271054') format('woff2'),
-       url('iconfont.woff?t=1646636271054') format('woff'),
-       url('iconfont.ttf?t=1646636271054') format('truetype'),
-       url('iconfont.svg?t=1646636271054#fa') format('svg');
+  src: url('iconfont.eot?t=1648619717489'); /* IE9 */
+  src: url('iconfont.eot?t=1648619717489#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('iconfont.woff2?t=1648619717489') format('woff2'),
+       url('iconfont.woff?t=1648619717489') format('woff'),
+       url('iconfont.ttf?t=1648619717489') format('truetype'),
+       url('iconfont.svg?t=1648619717489#fa') format('svg');
 }
 
 .fa {
@@ -14,6 +14,14 @@
   font-style: normal;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+.fa-share:before {
+  content: "\e7d8";
+}
+
+.fa-collect:before {
+  content: "\e7d9";
 }
 
 .fa-state_dataanomalies:before {

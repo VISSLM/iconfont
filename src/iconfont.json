@@ -6,6 +6,20 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "28606599",
+      "name": "share_O",
+      "font_class": "share",
+      "unicode": "e7d8",
+      "unicode_decimal": 59352
+    },
+    {
+      "icon_id": "28606600",
+      "name": "collect_O",
+      "font_class": "collect",
+      "unicode": "e7d9",
+      "unicode_decimal": 59353
+    },
+    {
       "icon_id": "28066663",
       "name": "state_dataanomalies",
       "font_class": "state_dataanomalies",
