@@ -1,11 +1,11 @@
 @font-face {
   font-family: "fa"; /* Project id 692493 */
-  src: url('iconfont.eot?t=1648619717489'); /* IE9 */
-  src: url('iconfont.eot?t=1648619717489#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('iconfont.woff2?t=1648619717489') format('woff2'),
-       url('iconfont.woff?t=1648619717489') format('woff'),
-       url('iconfont.ttf?t=1648619717489') format('truetype'),
-       url('iconfont.svg?t=1648619717489#fa') format('svg');
+  src: url('iconfont.eot?t=1650794882513'); /* IE9 */
+  src: url('iconfont.eot?t=1650794882513#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('iconfont.woff2?t=1650794882513') format('woff2'),
+       url('iconfont.woff?t=1650794882513') format('woff'),
+       url('iconfont.ttf?t=1650794882513') format('truetype'),
+       url('iconfont.svg?t=1650794882513#fa') format('svg');
 }
 
 .fa {
@@ -14,6 +14,10 @@
   font-style: normal;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+.fa-a-Component2031:before {
+  content: "\e7db";
 }
 
 .fa-share:before {

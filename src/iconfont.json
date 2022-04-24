@@ -6,6 +6,13 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "29256463",
+      "name": "Distribution",
+      "font_class": "a-Component2031",
+      "unicode": "e7db",
+      "unicode_decimal": 59355
+    },
+    {
       "icon_id": "28606599",
       "name": "share_O",
       "font_class": "share",
