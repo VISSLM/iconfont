@@ -6,9 +6,16 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "29272536",
+      "name": "distribution_F",
+      "font_class": "distribution_F",
+      "unicode": "e7dc",
+      "unicode_decimal": 59356
+    },
+    {
       "icon_id": "29269519",
       "name": "distribution",
-      "font_class": "distribution",
+      "font_class": "distribution_O",
       "unicode": "e7db",
       "unicode_decimal": 59355
     },
