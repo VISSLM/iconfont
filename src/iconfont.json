@@ -6,9 +6,9 @@
   "description": "",
   "glyphs": [
     {
-      "icon_id": "29256463",
-      "name": "Distribution",
-      "font_class": "a-Component2031",
+      "icon_id": "29269519",
+      "name": "distribution",
+      "font_class": "distribution",
       "unicode": "e7db",
       "unicode_decimal": 59355
     },
