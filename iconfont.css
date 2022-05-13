@@ -1,11 +1,11 @@
 @font-face {
   font-family: "fa"; /* Project id 692493 */
-  src: url('iconfont.eot?t=1650858889106'); /* IE9 */
-  src: url('iconfont.eot?t=1650858889106#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('iconfont.woff2?t=1650858889106') format('woff2'),
-       url('iconfont.woff?t=1650858889106') format('woff'),
-       url('iconfont.ttf?t=1650858889106') format('truetype'),
-       url('iconfont.svg?t=1650858889106#fa') format('svg');
+  src: url('iconfont.eot?t=1652425830614'); /* IE9 */
+  src: url('iconfont.eot?t=1652425830614#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('iconfont.woff2?t=1652425830614') format('woff2'),
+       url('iconfont.woff?t=1652425830614') format('woff'),
+       url('iconfont.ttf?t=1652425830614') format('truetype'),
+       url('iconfont.svg?t=1652425830614#fa') format('svg');
 }
 
 .fa {
@@ -14,6 +14,22 @@
   font-style: normal;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+.fa-citation:before {
+  content: "\e7de";
+}
+
+.fa-cited:before {
+  content: "\e7df";
+}
+
+.fa-downstream:before {
+  content: "\e7e2";
+}
+
+.fa-upstream:before {
+  content: "\e7e3";
 }
 
 .fa-distribution_F:before {
