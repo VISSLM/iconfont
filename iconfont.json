@@ -6,6 +6,27 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "29973412",
+      "name": "retrospectivetable",
+      "font_class": "retrospectivetable",
+      "unicode": "e7e6",
+      "unicode_decimal": 59366
+    },
+    {
+      "icon_id": "29968333",
+      "name": "horseracingmap",
+      "font_class": "horseracingmap",
+      "unicode": "e7e4",
+      "unicode_decimal": 59364
+    },
+    {
+      "icon_id": "29968334",
+      "name": "bubblemap",
+      "font_class": "bubblemap",
+      "unicode": "e7e5",
+      "unicode_decimal": 59365
+    },
+    {
       "icon_id": "29702377",
       "name": "citation",
       "font_class": "citation",
