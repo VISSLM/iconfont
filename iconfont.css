@@ -1,11 +1,11 @@
 @font-face {
   font-family: "fa"; /* Project id 692493 */
-  src: url('iconfont.eot?t=1652425830614'); /* IE9 */
-  src: url('iconfont.eot?t=1652425830614#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('iconfont.woff2?t=1652425830614') format('woff2'),
-       url('iconfont.woff?t=1652425830614') format('woff'),
-       url('iconfont.ttf?t=1652425830614') format('truetype'),
-       url('iconfont.svg?t=1652425830614#fa') format('svg');
+  src: url('iconfont.eot?t=1653461216601'); /* IE9 */
+  src: url('iconfont.eot?t=1653461216601#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('iconfont.woff2?t=1653461216601') format('woff2'),
+       url('iconfont.woff?t=1653461216601') format('woff'),
+       url('iconfont.ttf?t=1653461216601') format('truetype'),
+       url('iconfont.svg?t=1653461216601#fa') format('svg');
 }
 
 .fa {
@@ -14,6 +14,14 @@
   font-style: normal;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+.fa-horseracingmap:before {
+  content: "\e7e4";
+}
+
+.fa-bubblemap:before {
+  content: "\e7e5";
 }
 
 .fa-citation:before {
