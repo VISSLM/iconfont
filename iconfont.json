@@ -6,6 +6,20 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "30324860",
+      "name": "Doctemplates",
+      "font_class": "Doctemplates",
+      "unicode": "e7e7",
+      "unicode_decimal": 59367
+    },
+    {
+      "icon_id": "29973412",
+      "name": "retrospectivetable",
+      "font_class": "retrospectivetable",
+      "unicode": "e7e6",
+      "unicode_decimal": 59366
+    },
+    {
       "icon_id": "29968333",
       "name": "horseracingmap",
       "font_class": "horseracingmap",
