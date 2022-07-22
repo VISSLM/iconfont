@@ -6,6 +6,13 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "30783703",
+      "name": "problem",
+      "font_class": "problem",
+      "unicode": "e7e9",
+      "unicode_decimal": 59369
+    },
+    {
       "icon_id": "30735248",
       "name": "serialwarning",
       "font_class": "serialwarning",
