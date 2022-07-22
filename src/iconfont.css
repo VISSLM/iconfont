@@ -1,11 +1,11 @@
 @font-face {
   font-family: "fa"; /* Project id 692493 */
-  src: url('iconfont.eot?t=1658303457241'); /* IE9 */
-  src: url('iconfont.eot?t=1658303457241#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('iconfont.woff2?t=1658303457241') format('woff2'),
-       url('iconfont.woff?t=1658303457241') format('woff'),
-       url('iconfont.ttf?t=1658303457241') format('truetype'),
-       url('iconfont.svg?t=1658303457241#fa') format('svg');
+  src: url('iconfont.eot?t=1658466977331'); /* IE9 */
+  src: url('iconfont.eot?t=1658466977331#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('iconfont.woff2?t=1658466977331') format('woff2'),
+       url('iconfont.woff?t=1658466977331') format('woff'),
+       url('iconfont.ttf?t=1658466977331') format('truetype'),
+       url('iconfont.svg?t=1658466977331#fa') format('svg');
 }
 
 .fa {
@@ -14,6 +14,10 @@
   font-style: normal;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+.fa-problem:before {
+  content: "\e7e9";
 }
 
 .fa-serialwarning:before {
