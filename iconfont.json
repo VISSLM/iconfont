@@ -6,408 +6,135 @@
   "description": "",
   "glyphs": [
     {
-      "icon_id": "34506110",
-      "name": "Task1",
-      "font_class": "a-daibanrenwu6",
-      "unicode": "e825",
-      "unicode_decimal": 59429
-    },
-    {
-      "icon_id": "34506111",
-      "name": "Task1_colour",
-      "font_class": "a-daibanrenwu5",
-      "unicode": "e826",
-      "unicode_decimal": 59430
-    },
-    {
-      "icon_id": "34506064",
-      "name": "Sprints",
-      "font_class": "a-diedai8",
-      "unicode": "e824",
-      "unicode_decimal": 59428
-    },
-    {
-      "icon_id": "34506023",
-      "name": "Sprint_purple",
-      "font_class": "a-diedai7",
-      "unicode": "e817",
-      "unicode_decimal": 59415
-    },
-    {
-      "icon_id": "34506024",
-      "name": "Sprint_green",
-      "font_class": "a-diedai5",
-      "unicode": "e818",
-      "unicode_decimal": 59416
-    },
-    {
-      "icon_id": "34506025",
-      "name": "Sprint_blue",
-      "font_class": "a-diedai6",
-      "unicode": "e819",
-      "unicode_decimal": 59417
-    },
-    {
-      "icon_id": "34506026",
-      "name": "Sprints_brown",
-      "font_class": "a-diedai2",
-      "unicode": "e81a",
-      "unicode_decimal": 59418
-    },
-    {
-      "icon_id": "34506027",
-      "name": "Sprint",
-      "font_class": "a-diedai4",
-      "unicode": "e81b",
-      "unicode_decimal": 59419
-    },
-    {
-      "icon_id": "34506028",
-      "name": "Sprint_red",
-      "font_class": "a-diedai3",
-      "unicode": "e81c",
-      "unicode_decimal": 59420
-    },
-    {
-      "icon_id": "34506029",
-      "name": "Sprints_orange",
-      "font_class": "a-diedai1",
-      "unicode": "e81d",
-      "unicode_decimal": 59421
-    },
-    {
-      "icon_id": "34506030",
-      "name": "Task1_blue",
-      "font_class": "a-daibanrenwu4",
-      "unicode": "e81e",
-      "unicode_decimal": 59422
-    },
-    {
-      "icon_id": "34506032",
-      "name": "Task1_orange",
-      "font_class": "a-daibanrenwu1",
-      "unicode": "e81f",
-      "unicode_decimal": 59423
-    },
-    {
-      "icon_id": "34506033",
-      "name": "Task1_red",
-      "font_class": "a-daibanrenwu3",
-      "unicode": "e820",
-      "unicode_decimal": 59424
-    },
-    {
-      "icon_id": "34506034",
-      "name": "Sprints_green",
-      "font_class": "diedai",
-      "unicode": "e821",
-      "unicode_decimal": 59425
-    },
-    {
-      "icon_id": "34506035",
-      "name": "Task1_green",
-      "font_class": "a-daibanrenwu2",
-      "unicode": "e822",
-      "unicode_decimal": 59426
-    },
-    {
-      "icon_id": "34505534",
-      "name": "SR_red",
-      "font_class": "a-xuqiuguanli1",
-      "unicode": "e7f3",
-      "unicode_decimal": 59379
-    },
-    {
-      "icon_id": "34505535",
-      "name": "SR_deongaree",
-      "font_class": "xuqiuguanli",
-      "unicode": "e7f4",
-      "unicode_decimal": 59380
-    },
-    {
-      "icon_id": "34505536",
-      "name": "SR_purple",
-      "font_class": "a-xuqiuguanli3",
-      "unicode": "e7f5",
-      "unicode_decimal": 59381
-    },
-    {
-      "icon_id": "34505537",
-      "name": "SR_deep purple",
-      "font_class": "a-xuqiuguanli2",
-      "unicode": "e7f6",
-      "unicode_decimal": 59382
-    },
-    {
-      "icon_id": "34505598",
-      "name": "SR",
-      "font_class": "a-xuqiuguanli6",
+      "icon_id": "34591930",
+      "name": "pipeline2",
+      "font_class": "pipeline2",
       "unicode": "e7f7",
       "unicode_decimal": 59383
     },
     {
-      "icon_id": "34505603",
-      "name": "UserStory_purple",
-      "font_class": "a-xuqiu3",
+      "icon_id": "34591931",
+      "name": "pipeline1",
+      "font_class": "pipeline1",
       "unicode": "e7f8",
       "unicode_decimal": 59384
     },
     {
-      "icon_id": "34505604",
-      "name": "UserStory_Dark green",
-      "font_class": "a-xuqiu4",
+      "icon_id": "34591932",
+      "name": "product-warehouse",
+      "font_class": "zhipinku",
       "unicode": "e7f9",
       "unicode_decimal": 59385
     },
     {
-      "icon_id": "34505605",
-      "name": "UserStory_deongaree",
-      "font_class": "xuqiu",
+      "icon_id": "34591933",
+      "name": "CI-CD",
+      "font_class": "CI-CD",
       "unicode": "e7fa",
       "unicode_decimal": 59386
     },
     {
-      "icon_id": "34505606",
-      "name": "UserStory_Light blue",
-      "font_class": "a-xuqiu2",
+      "icon_id": "34591934",
+      "name": "code-quality",
+      "font_class": "code-quality",
       "unicode": "e7fb",
       "unicode_decimal": 59387
     },
     {
-      "icon_id": "34505607",
-      "name": "UserStory_green",
-      "font_class": "a-xuqiu5",
+      "icon_id": "34591935",
+      "name": "host-cluster-2",
+      "font_class": "zhujijiqun2",
       "unicode": "e7fc",
       "unicode_decimal": 59388
     },
     {
-      "icon_id": "34505608",
-      "name": "UserStory_red",
-      "font_class": "a-xuqiu1",
+      "icon_id": "34591936",
+      "name": "host-cluster",
+      "font_class": "zhujijiqun1",
       "unicode": "e7fd",
       "unicode_decimal": 59389
     },
     {
-      "icon_id": "34505624",
-      "name": "UserStory",
-      "font_class": "a-xuqiu6",
-      "unicode": "e7fe",
-      "unicode_decimal": 59390
+      "icon_id": "34512714",
+      "name": "拖拽",
+      "font_class": "dragger-four",
+      "unicode": "e7f5",
+      "unicode_decimal": 59381
     },
     {
-      "icon_id": "34505690",
-      "name": "USR_deongaree",
-      "font_class": "yonghuzhongxin-woyouxuqiu",
-      "unicode": "e7ff",
-      "unicode_decimal": 59391
-    },
-    {
-      "icon_id": "34505691",
-      "name": "USR_purple",
-      "font_class": "a-yonghuzhongxin-woyouxuqiu3",
-      "unicode": "e800",
-      "unicode_decimal": 59392
-    },
-    {
-      "icon_id": "34505692",
-      "name": "USR_green",
-      "font_class": "a-yonghuzhongxin-woyouxuqiu6",
-      "unicode": "e801",
-      "unicode_decimal": 59393
-    },
-    {
-      "icon_id": "34505693",
-      "name": "USR_Dark green",
-      "font_class": "a-yonghuzhongxin-woyouxuqiu5",
-      "unicode": "e802",
-      "unicode_decimal": 59394
-    },
-    {
-      "icon_id": "34505694",
-      "name": "USR_red",
-      "font_class": "a-yonghuzhongxin-woyouxuqiu1",
-      "unicode": "e803",
-      "unicode_decimal": 59395
-    },
-    {
-      "icon_id": "34505695",
-      "name": "USR_blue",
-      "font_class": "a-yonghuzhongxin-woyouxuqiu2",
-      "unicode": "e804",
-      "unicode_decimal": 59396
-    },
-    {
-      "icon_id": "34505724",
-      "name": "USR",
-      "font_class": "a-yonghuzhongxin-woyouxuqiu7",
-      "unicode": "e805",
-      "unicode_decimal": 59397
-    },
-    {
-      "icon_id": "34505805",
-      "name": "SoftwareRequirements_Red",
-      "font_class": "a-xiangmuxuqiu3",
-      "unicode": "e806",
-      "unicode_decimal": 59398
-    },
-    {
-      "icon_id": "34505806",
-      "name": "SoftwareRequirements_green",
-      "font_class": "xiangmuxuqiu",
-      "unicode": "e807",
-      "unicode_decimal": 59399
-    },
-    {
-      "icon_id": "34505807",
-      "name": "SoftwareRequirements_purple",
-      "font_class": "a-xiangmuxuqiu1",
-      "unicode": "e808",
-      "unicode_decimal": 59400
-    },
-    {
-      "icon_id": "34505808",
-      "name": "SoftwareRequirements_purple",
-      "font_class": "a-xiangmuxuqiu2",
-      "unicode": "e80a",
-      "unicode_decimal": 59402
-    },
-    {
-      "icon_id": "34505891",
-      "name": "SoftwareRequirements",
-      "font_class": "a-xiangmuxuqiu4",
-      "unicode": "e80b",
-      "unicode_decimal": 59403
-    },
-    {
-      "icon_id": "34505929",
-      "name": "SprintTask_Dark green",
-      "font_class": "a-renwu3",
-      "unicode": "e80c",
-      "unicode_decimal": 59404
-    },
-    {
-      "icon_id": "34505930",
-      "name": "SprintTask_green",
-      "font_class": "a-renwu2",
-      "unicode": "e80d",
-      "unicode_decimal": 59405
-    },
-    {
-      "icon_id": "34505931",
-      "name": "SprintTask_purple",
-      "font_class": "a-renwu1",
-      "unicode": "e80e",
-      "unicode_decimal": 59406
-    },
-    {
-      "icon_id": "34505945",
-      "name": "SprintTask",
-      "font_class": "a-renwu4",
-      "unicode": "e80f",
-      "unicode_decimal": 59407
-    },
-    {
-      "icon_id": "34505960",
-      "name": "SubTask_Light green",
-      "font_class": "a-zirenwu4",
-      "unicode": "e810",
-      "unicode_decimal": 59408
-    },
-    {
-      "icon_id": "34505961",
-      "name": "SubTask_purple",
-      "font_class": "a-zirenwu3",
-      "unicode": "e811",
-      "unicode_decimal": 59409
-    },
-    {
-      "icon_id": "34505962",
-      "name": "SubTask_deongaree",
-      "font_class": "a-zirenwu6",
-      "unicode": "e812",
-      "unicode_decimal": 59410
-    },
-    {
-      "icon_id": "34505963",
-      "name": "SubTask_green",
-      "font_class": "a-zirenwu5",
-      "unicode": "e813",
-      "unicode_decimal": 59411
-    },
-    {
-      "icon_id": "34505964",
-      "name": "SubTask_red",
-      "font_class": "a-zirenwu1",
-      "unicode": "e814",
-      "unicode_decimal": 59412
-    },
-    {
-      "icon_id": "34505965",
-      "name": "SubTask_Dark green",
-      "font_class": "a-zirenwu2",
-      "unicode": "e815",
-      "unicode_decimal": 59413
-    },
-    {
-      "icon_id": "34505982",
-      "name": "SubTask",
-      "font_class": "a-zirenwu7",
-      "unicode": "e816",
-      "unicode_decimal": 59414
-    },
-    {
-      "icon_id": "34505258",
-      "name": "task (4)",
-      "font_class": "a-task4",
-      "unicode": "e7ec",
-      "unicode_decimal": 59372
-    },
-    {
-      "icon_id": "34505294",
-      "name": "task (3)",
-      "font_class": "a-task3",
-      "unicode": "e7ed",
-      "unicode_decimal": 59373
-    },
-    {
-      "icon_id": "34505295",
-      "name": "task (2)",
-      "font_class": "a-task2",
-      "unicode": "e7ee",
-      "unicode_decimal": 59374
-    },
-    {
-      "icon_id": "34505296",
-      "name": "task (1)",
-      "font_class": "a-task1",
+      "icon_id": "34508675",
+      "name": "task",
+      "font_class": "task-flag",
       "unicode": "e7ef",
       "unicode_decimal": 59375
     },
     {
-      "icon_id": "34505324",
-      "name": "task",
-      "font_class": "task",
-      "unicode": "e7f0",
-      "unicode_decimal": 59376
-    },
-    {
-      "icon_id": "34505532",
-      "name": "SR_green",
-      "font_class": "a-xuqiuguanli5",
+      "icon_id": "34508676",
+      "name": "subtask",
+      "font_class": "subtask",
       "unicode": "e7f1",
       "unicode_decimal": 59377
     },
     {
-      "icon_id": "34505533",
-      "name": "SR_Dark green",
-      "font_class": "a-xuqiuguanli4",
+      "icon_id": "34507149",
+      "name": "sprinttask",
+      "font_class": "sprinttask",
+      "unicode": "e7f0",
+      "unicode_decimal": 59376
+    },
+    {
+      "icon_id": "34507151",
+      "name": "sprint",
+      "font_class": "sprint",
       "unicode": "e7f2",
       "unicode_decimal": 59378
     },
     {
+      "icon_id": "34507152",
+      "name": "task-list",
+      "font_class": "task-list",
+      "unicode": "e7f3",
+      "unicode_decimal": 59379
+    },
+    {
+      "icon_id": "34507153",
+      "name": "sr-alt",
+      "font_class": "sr-alt",
+      "unicode": "e7f4",
+      "unicode_decimal": 59380
+    },
+    {
+      "icon_id": "34507155",
+      "name": "sprint-plie",
+      "font_class": "sprint-plie",
+      "unicode": "e7f6",
+      "unicode_decimal": 59382
+    },
+    {
+      "icon_id": "34506936",
+      "name": "task-calendar",
+      "font_class": "task-calendar",
+      "unicode": "e7ec",
+      "unicode_decimal": 59372
+    },
+    {
+      "icon_id": "34506937",
+      "name": "sr",
+      "font_class": "sr",
+      "unicode": "e7ed",
+      "unicode_decimal": 59373
+    },
+    {
+      "icon_id": "34506938",
+      "name": "userstory",
+      "font_class": "userstory",
+      "unicode": "e7ee",
+      "unicode_decimal": 59374
+    },
+    {
       "icon_id": "32918959",
       "name": "Burn-down Chart_icon",
-      "font_class": "a-Burn-downChart_icon",
+      "font_class": "burndown",
       "unicode": "e7eb",
       "unicode_decimal": 59371
     },

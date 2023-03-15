@@ -1,11 +1,11 @@
 @font-face {
   font-family: "fa"; /* Project id 692493 */
-  src: url('iconfont.eot?t=1678353067888'); /* IE9 */
-  src: url('iconfont.eot?t=1678353067888#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('iconfont.woff2?t=1678353067888') format('woff2'),
-       url('iconfont.woff?t=1678353067888') format('woff'),
-       url('iconfont.ttf?t=1678353067888') format('truetype'),
-       url('iconfont.svg?t=1678353067888#fa') format('svg');
+  src: url('iconfont.eot?t=1678860836528'); /* IE9 */
+  src: url('iconfont.eot?t=1678860836528#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('iconfont.woff2?t=1678860836528') format('woff2'),
+       url('iconfont.woff?t=1678860836528') format('woff'),
+       url('iconfont.ttf?t=1678860836528') format('truetype'),
+       url('iconfont.svg?t=1678860836528#fa') format('svg');
 }
 
 .fa {
@@ -16,235 +16,79 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.fa-a-daibanrenwu6:before {
-  content: "\e825";
-}
-
-.fa-a-daibanrenwu5:before {
-  content: "\e826";
-}
-
-.fa-a-diedai8:before {
-  content: "\e824";
-}
-
-.fa-a-diedai7:before {
-  content: "\e817";
-}
-
-.fa-a-diedai5:before {
-  content: "\e818";
-}
-
-.fa-a-diedai6:before {
-  content: "\e819";
-}
-
-.fa-a-diedai2:before {
-  content: "\e81a";
-}
-
-.fa-a-diedai4:before {
-  content: "\e81b";
-}
-
-.fa-a-diedai3:before {
-  content: "\e81c";
-}
-
-.fa-a-diedai1:before {
-  content: "\e81d";
-}
-
-.fa-a-daibanrenwu4:before {
-  content: "\e81e";
-}
-
-.fa-a-daibanrenwu1:before {
-  content: "\e81f";
-}
-
-.fa-a-daibanrenwu3:before {
-  content: "\e820";
-}
-
-.fa-diedai:before {
-  content: "\e821";
-}
-
-.fa-a-daibanrenwu2:before {
-  content: "\e822";
-}
-
-.fa-a-xuqiuguanli1:before {
-  content: "\e7f3";
-}
-
-.fa-xuqiuguanli:before {
-  content: "\e7f4";
-}
-
-.fa-a-xuqiuguanli3:before {
-  content: "\e7f5";
-}
-
-.fa-a-xuqiuguanli2:before {
-  content: "\e7f6";
-}
-
-.fa-a-xuqiuguanli6:before {
+.fa-pipeline2:before {
   content: "\e7f7";
 }
 
-.fa-a-xuqiu3:before {
+.fa-pipeline1:before {
   content: "\e7f8";
 }
 
-.fa-a-xuqiu4:before {
+.fa-zhipinku:before {
   content: "\e7f9";
 }
 
-.fa-xuqiu:before {
+.fa-CI-CD:before {
   content: "\e7fa";
 }
 
-.fa-a-xuqiu2:before {
+.fa-code-quality:before {
   content: "\e7fb";
 }
 
-.fa-a-xuqiu5:before {
+.fa-zhujijiqun2:before {
   content: "\e7fc";
 }
 
-.fa-a-xuqiu1:before {
+.fa-zhujijiqun1:before {
   content: "\e7fd";
 }
 
-.fa-a-xuqiu6:before {
-  content: "\e7fe";
+.fa-dragger-four:before {
+  content: "\e7f5";
 }
 
-.fa-yonghuzhongxin-woyouxuqiu:before {
-  content: "\e7ff";
-}
-
-.fa-a-yonghuzhongxin-woyouxuqiu3:before {
-  content: "\e800";
-}
-
-.fa-a-yonghuzhongxin-woyouxuqiu6:before {
-  content: "\e801";
-}
-
-.fa-a-yonghuzhongxin-woyouxuqiu5:before {
-  content: "\e802";
-}
-
-.fa-a-yonghuzhongxin-woyouxuqiu1:before {
-  content: "\e803";
-}
-
-.fa-a-yonghuzhongxin-woyouxuqiu2:before {
-  content: "\e804";
-}
-
-.fa-a-yonghuzhongxin-woyouxuqiu7:before {
-  content: "\e805";
-}
-
-.fa-a-xiangmuxuqiu3:before {
-  content: "\e806";
-}
-
-.fa-xiangmuxuqiu:before {
-  content: "\e807";
-}
-
-.fa-a-xiangmuxuqiu1:before {
-  content: "\e808";
-}
-
-.fa-a-xiangmuxuqiu2:before {
-  content: "\e80a";
-}
-
-.fa-a-xiangmuxuqiu4:before {
-  content: "\e80b";
-}
-
-.fa-a-renwu3:before {
-  content: "\e80c";
-}
-
-.fa-a-renwu2:before {
-  content: "\e80d";
-}
-
-.fa-a-renwu1:before {
-  content: "\e80e";
-}
-
-.fa-a-renwu4:before {
-  content: "\e80f";
-}
-
-.fa-a-zirenwu4:before {
-  content: "\e810";
-}
-
-.fa-a-zirenwu3:before {
-  content: "\e811";
-}
-
-.fa-a-zirenwu6:before {
-  content: "\e812";
-}
-
-.fa-a-zirenwu5:before {
-  content: "\e813";
-}
-
-.fa-a-zirenwu1:before {
-  content: "\e814";
-}
-
-.fa-a-zirenwu2:before {
-  content: "\e815";
-}
-
-.fa-a-zirenwu7:before {
-  content: "\e816";
-}
-
-.fa-a-task4:before {
-  content: "\e7ec";
-}
-
-.fa-a-task3:before {
-  content: "\e7ed";
-}
-
-.fa-a-task2:before {
-  content: "\e7ee";
-}
-
-.fa-a-task1:before {
+.fa-task-flag:before {
   content: "\e7ef";
 }
 
-.fa-task:before {
-  content: "\e7f0";
-}
-
-.fa-a-xuqiuguanli5:before {
+.fa-subtask:before {
   content: "\e7f1";
 }
 
-.fa-a-xuqiuguanli4:before {
+.fa-sprinttask:before {
+  content: "\e7f0";
+}
+
+.fa-sprint:before {
   content: "\e7f2";
 }
 
-.fa-a-Burn-downChart_icon:before {
+.fa-task-list:before {
+  content: "\e7f3";
+}
+
+.fa-sr-alt:before {
+  content: "\e7f4";
+}
+
+.fa-sprint-plie:before {
+  content: "\e7f6";
+}
+
+.fa-task-calendar:before {
+  content: "\e7ec";
+}
+
+.fa-sr:before {
+  content: "\e7ed";
+}
+
+.fa-userstory:before {
+  content: "\e7ee";
+}
+
+.fa-burndown:before {
   content: "\e7eb";
 }
 
