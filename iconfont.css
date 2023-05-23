@@ -1,11 +1,11 @@
 @font-face {
   font-family: "fa"; /* Project id 692493 */
-  src: url('iconfont.eot?t=1678860836528'); /* IE9 */
-  src: url('iconfont.eot?t=1678860836528#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('iconfont.woff2?t=1678860836528') format('woff2'),
-       url('iconfont.woff?t=1678860836528') format('woff'),
-       url('iconfont.ttf?t=1678860836528') format('truetype'),
-       url('iconfont.svg?t=1678860836528#fa') format('svg');
+  src: url('iconfont.eot?t=1684805320919'); /* IE9 */
+  src: url('iconfont.eot?t=1684805320919#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('iconfont.woff2?t=1684805320919') format('woff2'),
+       url('iconfont.woff?t=1684805320919') format('woff'),
+       url('iconfont.ttf?t=1684805320919') format('truetype'),
+       url('iconfont.svg?t=1684805320919#fa') format('svg');
 }
 
 .fa {
@@ -14,6 +14,222 @@
   font-style: normal;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+.fa-xuanze:before {
+  content: "\e832";
+}
+
+.fa-clear:before {
+  content: "\e82f";
+}
+
+.fa-sign:before {
+  content: "\e830";
+}
+
+.fa-start:before {
+  content: "\e831";
+}
+
+.fa-report:before {
+  content: "\e829";
+}
+
+.fa-format-exl:before {
+  content: "\e821";
+}
+
+.fa-format-reqIF:before {
+  content: "\e826";
+}
+
+.fa-format-doc:before {
+  content: "\e827";
+}
+
+.fa-component:before {
+  content: "\e80d";
+}
+
+.fa-project-list:before {
+  content: "\e80f";
+}
+
+.fa-collection-directory:before {
+  content: "\e812";
+}
+
+.fa-baseline-configuration:before {
+  content: "\e816";
+}
+
+.fa-project-info:before {
+  content: "\e817";
+}
+
+.fa-doc:before {
+  content: "\e819";
+}
+
+.fa-organization:before {
+  content: "\e81a";
+}
+
+.fa-reference-line:before {
+  content: "\e80b";
+}
+
+.fa-file-ppt:before {
+  content: "\e806";
+}
+
+.fa-file-xlsx:before {
+  content: "\e815";
+}
+
+.fa-file-md:before {
+  content: "\e808";
+}
+
+.fa-zoom-out:before {
+  content: "\e7fe";
+}
+
+.fa-file-zip:before {
+  content: "\e802";
+}
+
+.fa-file-jar:before {
+  content: "\e80e";
+}
+
+.fa-file-jsp:before {
+  content: "\e803";
+}
+
+.fa-file-jsx:before {
+  content: "\e82d";
+}
+
+.fa-file-json:before {
+  content: "\e81c";
+}
+
+.fa-file-html:before {
+  content: "\e825";
+}
+
+.fa-csharp-line:before {
+  content: "\e828";
+}
+
+.fa-file-py:before {
+  content: "\e82a";
+}
+
+.fa-file-java:before {
+  content: "\e82b";
+}
+
+.fa-file-json-w:before {
+  content: "\e82c";
+}
+
+.fa-file-go:before {
+  content: "\e800";
+}
+
+.fa-file-c-circle:before {
+  content: "\e801";
+}
+
+.fa-html:before {
+  content: "\e666";
+}
+
+.fa-file-cplus:before {
+  content: "\e804";
+}
+
+.fa-pdf:before {
+  content: "\e8e8";
+}
+
+.fa-file-csharp:before {
+  content: "\e805";
+}
+
+.fa-file-scss:before {
+  content: "\e807";
+}
+
+.fa-TXT:before {
+  content: "\e80a";
+}
+
+.fa-file-css:before {
+  content: "\e80c";
+}
+
+.fa-file-yml:before {
+  content: "\e810";
+}
+
+.fa-file-ps-w:before {
+  content: "\e811";
+}
+
+.fa-file-less:before {
+  content: "\e813";
+}
+
+.fa-file-vue:before {
+  content: "\e814";
+}
+
+.fa-file-ts:before {
+  content: "\e818";
+}
+
+.fa-file-js:before {
+  content: "\e81b";
+}
+
+.fa-file-css-square:before {
+  content: "\e892";
+}
+
+.fa-dart:before {
+  content: "\eb71";
+}
+
+.fa-file-kotlin:before {
+  content: "\e81d";
+}
+
+.fa-file-php:before {
+  content: "\e81e";
+}
+
+.fa-file-dart:before {
+  content: "\e81f";
+}
+
+.fa-file-tsx:before {
+  content: "\e820";
+}
+
+.fa-file-c:before {
+  content: "\e822";
+}
+
+.fa-a-shujuku1:before {
+  content: "\e824";
+}
+
+.fa-unedit:before {
+  content: "\e7ff";
 }
 
 .fa-pipeline2:before {
@@ -1108,6 +1324,10 @@
   content: "\e736";
 }
 
+.fa-caret-right:before {
+  content: "\ecfe";
+}
+
 .fa-check-circle-o:before {
   content: "\e63c";
 }
@@ -1866,10 +2086,6 @@
 
 .fa-hot-event:before {
   content: "\e6ec";
-}
-
-.fa-caret-right:before {
-  content: "\e666";
 }
 
 .fa-close:before {
