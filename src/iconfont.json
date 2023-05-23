@@ -6,6 +6,384 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "12567346",
+      "name": "选择",
+      "font_class": "xuanze",
+      "unicode": "e832",
+      "unicode_decimal": 59442
+    },
+    {
+      "icon_id": "35556644",
+      "name": "清除",
+      "font_class": "clear",
+      "unicode": "e82f",
+      "unicode_decimal": 59439
+    },
+    {
+      "icon_id": "35556645",
+      "name": "签署",
+      "font_class": "sign",
+      "unicode": "e830",
+      "unicode_decimal": 59440
+    },
+    {
+      "icon_id": "35556646",
+      "name": "开始",
+      "font_class": "start",
+      "unicode": "e831",
+      "unicode_decimal": 59441
+    },
+    {
+      "icon_id": "21095605",
+      "name": "报告",
+      "font_class": "report",
+      "unicode": "e829",
+      "unicode_decimal": 59433
+    },
+    {
+      "icon_id": "35556038",
+      "name": "exl",
+      "font_class": "format-exl",
+      "unicode": "e821",
+      "unicode_decimal": 59425
+    },
+    {
+      "icon_id": "35556039",
+      "name": "reqIF",
+      "font_class": "format-reqIF",
+      "unicode": "e826",
+      "unicode_decimal": 59430
+    },
+    {
+      "icon_id": "35556040",
+      "name": "doc",
+      "font_class": "format-doc",
+      "unicode": "e827",
+      "unicode_decimal": 59431
+    },
+    {
+      "icon_id": "35400491",
+      "name": "组件",
+      "font_class": "component",
+      "unicode": "e80d",
+      "unicode_decimal": 59405
+    },
+    {
+      "icon_id": "35400492",
+      "name": "项目列表",
+      "font_class": "project-list",
+      "unicode": "e80f",
+      "unicode_decimal": 59407
+    },
+    {
+      "icon_id": "35400494",
+      "name": "集合目录",
+      "font_class": "collection-directory",
+      "unicode": "e812",
+      "unicode_decimal": 59410
+    },
+    {
+      "icon_id": "35400495",
+      "name": "基线配置",
+      "font_class": "baseline-configuration",
+      "unicode": "e816",
+      "unicode_decimal": 59414
+    },
+    {
+      "icon_id": "35400496",
+      "name": "项目",
+      "font_class": "project-info",
+      "unicode": "e817",
+      "unicode_decimal": 59415
+    },
+    {
+      "icon_id": "35400498",
+      "name": "文档",
+      "font_class": "doc",
+      "unicode": "e819",
+      "unicode_decimal": 59417
+    },
+    {
+      "icon_id": "35400499",
+      "name": "组织机构",
+      "font_class": "organization",
+      "unicode": "e81a",
+      "unicode_decimal": 59418
+    },
+    {
+      "icon_id": "35400462",
+      "name": "基线",
+      "font_class": "reference-line",
+      "unicode": "e80b",
+      "unicode_decimal": 59403
+    },
+    {
+      "icon_id": "11891756",
+      "name": "ppt",
+      "font_class": "file-ppt",
+      "unicode": "e806",
+      "unicode_decimal": 59398
+    },
+    {
+      "icon_id": "22712023",
+      "name": "xlxs",
+      "font_class": "file-xlsx",
+      "unicode": "e815",
+      "unicode_decimal": 59413
+    },
+    {
+      "icon_id": "31755056",
+      "name": "markdown",
+      "font_class": "file-md",
+      "unicode": "e808",
+      "unicode_decimal": 59400
+    },
+    {
+      "icon_id": "4152772",
+      "name": "缩小_1",
+      "font_class": "zoom-out",
+      "unicode": "e7fe",
+      "unicode_decimal": 59390
+    },
+    {
+      "icon_id": "1116952",
+      "name": "zip",
+      "font_class": "file-zip",
+      "unicode": "e802",
+      "unicode_decimal": 59394
+    },
+    {
+      "icon_id": "18284776",
+      "name": "jar",
+      "font_class": "file-jar",
+      "unicode": "e80e",
+      "unicode_decimal": 59406
+    },
+    {
+      "icon_id": "22813305",
+      "name": "jsp",
+      "font_class": "file-jsp",
+      "unicode": "e803",
+      "unicode_decimal": 59395
+    },
+    {
+      "icon_id": "33883698",
+      "name": "JSXScript",
+      "font_class": "file-jsx",
+      "unicode": "e82d",
+      "unicode_decimal": 59437
+    },
+    {
+      "icon_id": "1444787",
+      "name": "json",
+      "font_class": "file-json",
+      "unicode": "e81c",
+      "unicode_decimal": 59420
+    },
+    {
+      "icon_id": "1766511",
+      "name": "符号-html",
+      "font_class": "file-html",
+      "unicode": "e825",
+      "unicode_decimal": 59429
+    },
+    {
+      "icon_id": "9882183",
+      "name": "csharp-line",
+      "font_class": "csharp-line",
+      "unicode": "e828",
+      "unicode_decimal": 59432
+    },
+    {
+      "icon_id": "15259816",
+      "name": "language-python",
+      "font_class": "file-py",
+      "unicode": "e82a",
+      "unicode_decimal": 59434
+    },
+    {
+      "icon_id": "31755039",
+      "name": "java",
+      "font_class": "file-java",
+      "unicode": "e82b",
+      "unicode_decimal": 59435
+    },
+    {
+      "icon_id": "32404954",
+      "name": "json",
+      "font_class": "file-json-w",
+      "unicode": "e82c",
+      "unicode_decimal": 59436
+    },
+    {
+      "icon_id": "450407",
+      "name": "go",
+      "font_class": "file-go",
+      "unicode": "e800",
+      "unicode_decimal": 59392
+    },
+    {
+      "icon_id": "722241",
+      "name": "C",
+      "font_class": "file-c-circle",
+      "unicode": "e801",
+      "unicode_decimal": 59393
+    },
+    {
+      "icon_id": "1160156",
+      "name": "html",
+      "font_class": "html",
+      "unicode": "e666",
+      "unicode_decimal": 58982
+    },
+    {
+      "icon_id": "1858732",
+      "name": "c++",
+      "font_class": "file-cplus",
+      "unicode": "e804",
+      "unicode_decimal": 59396
+    },
+    {
+      "icon_id": "2794637",
+      "name": "pdf",
+      "font_class": "pdf",
+      "unicode": "e8e8",
+      "unicode_decimal": 59624
+    },
+    {
+      "icon_id": "3078945",
+      "name": "c#",
+      "font_class": "file-csharp",
+      "unicode": "e805",
+      "unicode_decimal": 59397
+    },
+    {
+      "icon_id": "5824498",
+      "name": "scss",
+      "font_class": "file-scss",
+      "unicode": "e807",
+      "unicode_decimal": 59399
+    },
+    {
+      "icon_id": "6294486",
+      "name": "TXT",
+      "font_class": "TXT",
+      "unicode": "e80a",
+      "unicode_decimal": 59402
+    },
+    {
+      "icon_id": "7704060",
+      "name": "CSS",
+      "font_class": "file-css",
+      "unicode": "e80c",
+      "unicode_decimal": 59404
+    },
+    {
+      "icon_id": "11333918",
+      "name": "yml",
+      "font_class": "file-yml",
+      "unicode": "e810",
+      "unicode_decimal": 59408
+    },
+    {
+      "icon_id": "11349131",
+      "name": "ps",
+      "font_class": "file-ps-w",
+      "unicode": "e811",
+      "unicode_decimal": 59409
+    },
+    {
+      "icon_id": "11992975",
+      "name": "less",
+      "font_class": "file-less",
+      "unicode": "e813",
+      "unicode_decimal": 59411
+    },
+    {
+      "icon_id": "11993629",
+      "name": "vuejs",
+      "font_class": "file-vue",
+      "unicode": "e814",
+      "unicode_decimal": 59412
+    },
+    {
+      "icon_id": "12600931",
+      "name": "ts",
+      "font_class": "file-ts",
+      "unicode": "e818",
+      "unicode_decimal": 59416
+    },
+    {
+      "icon_id": "13743946",
+      "name": "js",
+      "font_class": "file-js",
+      "unicode": "e81b",
+      "unicode_decimal": 59419
+    },
+    {
+      "icon_id": "14212810",
+      "name": "CSS",
+      "font_class": "file-css-square",
+      "unicode": "e892",
+      "unicode_decimal": 59538
+    },
+    {
+      "icon_id": "15378268",
+      "name": "dart",
+      "font_class": "dart",
+      "unicode": "eb71",
+      "unicode_decimal": 60273
+    },
+    {
+      "icon_id": "17874104",
+      "name": "kotlin",
+      "font_class": "file-kotlin",
+      "unicode": "e81d",
+      "unicode_decimal": 59421
+    },
+    {
+      "icon_id": "22133278",
+      "name": "php",
+      "font_class": "file-php",
+      "unicode": "e81e",
+      "unicode_decimal": 59422
+    },
+    {
+      "icon_id": "22273385",
+      "name": "dart",
+      "font_class": "file-dart",
+      "unicode": "e81f",
+      "unicode_decimal": 59423
+    },
+    {
+      "icon_id": "22801066",
+      "name": "file.tsx",
+      "font_class": "file-tsx",
+      "unicode": "e820",
+      "unicode_decimal": 59424
+    },
+    {
+      "icon_id": "33782955",
+      "name": "c",
+      "font_class": "file-c",
+      "unicode": "e822",
+      "unicode_decimal": 59426
+    },
+    {
+      "icon_id": "34442572",
+      "name": "plsql",
+      "font_class": "a-shujuku1",
+      "unicode": "e824",
+      "unicode_decimal": 59428
+    },
+    {
+      "icon_id": "10985491",
+      "name": "禁止编辑",
+      "font_class": "unedit",
+      "unicode": "e7ff",
+      "unicode_decimal": 59391
+    },
+    {
       "icon_id": "34591930",
       "name": "pipeline2",
       "font_class": "pipeline2",
@@ -1917,6 +2295,13 @@
       "unicode_decimal": 59190
     },
     {
+      "icon_id": "35058437",
+      "name": "caret-down-copy",
+      "font_class": "caret-right",
+      "unicode": "ecfe",
+      "unicode_decimal": 60670
+    },
+    {
       "icon_id": "380326",
       "name": "check-circle-o",
       "font_class": "check-circle-o",
@@ -3245,13 +3630,6 @@
       "font_class": "hot-event",
       "unicode": "e6ec",
       "unicode_decimal": 59116
-    },
-    {
-      "icon_id": "1174201",
-      "name": "caret-right",
-      "font_class": "caret-right",
-      "unicode": "e666",
-      "unicode_decimal": 58982
     },
     {
       "icon_id": "1174205",
